@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Platform
+  - Enemy
+  - Potion
+  - void
+  - Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 817056255
+    locked: 0
+  - name: objects
+    uniqueID: 2336397879
+    locked: 0
+  - name: Player
+    uniqueID: 2569391795
+    locked: 0
+  - name: backgroundClose
+    uniqueID: 757416525
+    locked: 0
+  - name: tile
+    uniqueID: 4148284215
+    locked: 0
